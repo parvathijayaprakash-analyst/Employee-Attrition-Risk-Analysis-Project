@@ -125,17 +125,6 @@ DAX| Calculated columns and KPI measures
 
 ---
 
-* Repository Structure
-
-File / Folder| Description
-"data/hr_attrition_raw.csv"| Raw HR dataset (1,470 records)
-"excel/hr_attrition_analysis.xlsx"| Excel analysis and pivot insights
-"sql/hr_attrition_analysis.sql"| SQL queries used for analysis
-"powerbi/hr_attrition_dashboard.pbix"| Power BI dashboard file
-"screenshots/"| Dashboard preview images
-
----
-
 * Dataset Information
 
 - Source: IBM HR Analytics Dataset (Kaggle)
